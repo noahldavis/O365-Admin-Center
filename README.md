@@ -6,6 +6,7 @@ ___
 MFA requires two modules:
 - MSOnline 
 - EXOPPSSession (downloaded from your tenant)
+
 Once installed, enable MFA by going to Tools > 2FA > Enable 2FA
 - It changes a reg key at HKEY_Current_User/Software/O365 Admin Center
 
